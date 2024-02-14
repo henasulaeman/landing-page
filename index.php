@@ -72,7 +72,7 @@
                         <span>+012 345 6789</span>
                     </div>
                 </div>
-                <a href="index.html" class="h1 text-white mb-0">DevOps</a><span class="text-dark">Learning</span>
+                <a href="index.html" class="h1 text-white mb-0">DevOps<span class="text-dark">Learning</span></a>
                 <div class="d-flex">
                     <i class="bi bi-envelope fs-2"></i>
                     <div class="ms-3">
