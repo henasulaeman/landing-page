@@ -36,7 +36,7 @@
     <!-- Spinner Start -->
     <div id="spinner"
         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
+        <div class="spinner-borde   r text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
     </div>
     <!-- Spinner End -->
 
@@ -72,7 +72,7 @@
                         <span>+012 345 6789</span>
                     </div>
                 </div>
-                <a href="index.html" class="h1 text-white mb-0">Lab<span class="text-dark">sky</span></a>
+                <a href="index.html" class="h1 text-white mb-0">DevOps</a><span class="text-dark">Learning</span>
                 <div class="d-flex">
                     <i class="bi bi-envelope fs-2"></i>
                     <div class="ms-3">
